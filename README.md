@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me:
+
+[<img align="left" alt="https://salithachathuranga.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="salithachathuranga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="salithachathuranga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
 ### Languages and Frameworks:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlposts]
@@ -30,6 +37,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalithaUCSC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[website]: https://salithachathuranga.github.io
+[linkedin]: https://www.instagram.com/salitha94
+[instagram]: https://www.linkedin.com/in/salitha-chathuranga
 [htmlposts]: https://salitha94.blogspot.com/search?q=html
 [javaposts]: https://salitha94.blogspot.com/search/label/Java
 [jsposts]: https://salitha94.blogspot.com/search?q=javascript
