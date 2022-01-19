@@ -27,4 +27,4 @@
 <br/>
 
 [![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fsalithachathuranga.github.io)](https://salithachathuranga.github.io)
-[![Website](https://img.shields.io/website?label=BLOG&style=for-the-badge&url=https%3A%2F%2Fsalitha94.blogspot.com/)](https://salithachathuranga.github.io)
+[![Website](https://img.shields.io/website?label=BLOG&style=for-the-badge&url=https%3A%2F%2Fsalitha94.blogspot.com/)](https://salitha94.blogspot.com)
