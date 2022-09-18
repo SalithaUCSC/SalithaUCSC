@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Salitha Chathuranga</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-- 🔭 I’m currently working at [Zilingo](https://zilingo.com)
+- 🔭 I’m currently working at [Sysco Labs Sri Lanka](https://syscolabs.lk)
 
-- 🌱 I’m currently learning **Java Play Framework, Ionic Framework**
+- 🌱 I’m currently working with **Java Spring Boot, Angular and React Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://salithachathuranga.github.io](https://salithachathuranga.github.io)
 
-- 📝 I regulary write articles on [https://salitha94.blogspot.com](https://salitha94.blogspot.com)
+- 📝 I regulary write articles on [hhttps://salithachathuranga94.medium.com/](https://salithachathuranga94.medium.com/)
 
-- 💬 Ask me about **Java, Angular, PHP**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **salithachathuranga94@gmail.com**
 
@@ -17,9 +17,9 @@
 <br/><br/><br/>
 
 <h3>Languages, Frameworks and Technologies</h3><br/>
-Back-End   : Java (Play Framework, SpringBoot)<br/>
-Front-End  : Angular, Ionic<br/>
-Database   : MongoDB, Druid, ES, Redis<br/>
+Back-End   : Java (SpringBoot, Play Framework)<br/>
+Front-End  : Angular, Ionic, React<br/>
+Database   : MongoDB, MySQL, Druid, ES, Redis<br/>
 Web Tech   : HTML, CSS, AJAX, Jquery<br/>
 Other Tech : Kafka, Websockets, Akka Framework<br/>
 Tools      : Postman, Intellij Idea, Webstorm, Studio 3T, Linux<br/>
