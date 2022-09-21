@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://salithachathuranga.github.io](https://salithachathuranga.github.io)
 
-- 📝 I regulary write articles on [hhttps://salithachathuranga94.medium.com/](https://salithachathuranga94.medium.com/)
+- 📝 I regulary write articles on [https://salithachathuranga94.medium.com/](https://salithachathuranga94.medium.com/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java and Spring Boot**
 
 - 📫 How to reach me **salithachathuranga94@gmail.com**
 
